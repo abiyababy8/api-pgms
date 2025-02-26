@@ -1,7 +1,7 @@
 //create a promise
 const myPromise= new Promise((resolve,reject)=>{
     //api call
-    var isApiSuccess=false;
+    var isApiSuccess=true;
     if(isApiSuccess){
         resolve("API is success");
     }
