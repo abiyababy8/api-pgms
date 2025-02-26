@@ -6,7 +6,7 @@
 // console.log("finished")
 
 
-console.log("API call stated");
+console.log("API call started");
 //call api and get user details from backend
 callUserDetails();
 console.log("finished")
